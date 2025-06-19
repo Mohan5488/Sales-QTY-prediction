@@ -1,5 +1,6 @@
-# 📦 Product Quantity Predictor -- check here **https://huggingface.co/spaces/Krishna5488/Sales_QTY_prediction**
-
+# 📦 Product Quantity Predictor 
+--
+check here <a href="https://huggingface.co/spaces/Krishna5488/Sales_QTY_prediction" target="blank_"></a>
 This project predicts the **sales quantity of a product** based on the selected product name, price bucket, month, and year. It uses **Word2Vec** for product text embeddings and **RandomForest Regression** for quantity prediction. A user-friendly Streamlit interface allows interactive predictions.
 
 ---
